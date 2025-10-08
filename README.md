@@ -157,7 +157,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - All contributors and supporters of the project
 
 ---
-
-<p align="center">
-  Made with ❤️ by S. K. Singh
-</p>
